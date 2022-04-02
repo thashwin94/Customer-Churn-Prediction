@@ -1,4 +1,4 @@
-# Customer-Churn-Prediction
+# Customer-Churn-Prediction -- Classification
 In this repo we will analyse the data from Telecom company in order to predict which customer would churn.<br>
 This repo aims to analyse the data for the following reasons.<br>
 1. Understand the reasons for customers to leave the service provider<br>
